@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "name": "김성공",
+    "role": "프리랜서 작가",
+    "income": "320만원",
+    "story": "강점기반 글쓰기 방법론을 통해 3개월 만에 네이버 블로그에서 월 300만원 이상의 수익을 달성했습니다. 제 강점인 '공감 능력'을 글에 녹여내니 독자들의 반응이 폭발적으로 좋아졌어요.",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+  },
+  {
+    "Id": 2,
+    "name": "박수익",
+    "role": "온라인 강사",
+    "income": "450만원",
+    "story": "처음엔 글쓰기 완전 초보였는데, 체계적인 4단계 프로세스를 따라하니 브런치에서 인기 작가가 되었습니다. 이제는 글쓰기 강의까지 열고 있어요. 인생이 바뀌었습니다!",
+    "imageUrl": "https://images.unsplash.com/photo-1494790108755-2616b612b5e5?w=150&h=150&fit=crop&crop=face"
+  },
+  {
+    "Id": 3,
+    "name": "이창업",
+    "role": "스타트업 CEO",
+    "income": "180만원",
+    "story": "사업을 하면서도 개인 브랜딩이 필요하다고 생각했는데, 강점기반 글쓰기로 LinkedIn에서 영향력을 키워 비즈니스 기회가 많이 생겼습니다. 직접적인 수익도 월 180만원 정도 나오고 있어요.",
+    "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+  },
+  {
+    "Id": 4,
+    "name": "정꾸준",
+    "role": "직장인 블로거",
+    "income": "95만원",
+    "story": "직장 다니면서 부업으로 시작했는데, 제 강점인 '분석력'을 활용한 리뷰 글들이 인기를 끌면서 광고 수익이 꾸준히 들어오고 있습니다. 이제 투잡 걱정은 없어요!",
+    "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+  }
+]
